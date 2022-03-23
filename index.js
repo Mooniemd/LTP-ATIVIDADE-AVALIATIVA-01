@@ -10,6 +10,7 @@ divulgarNoticia(){
     console.log(this.titulo);
     console.log(this.dataPubli);
     console.log(this.resumo);
+    console.log("")
     console.log(this.texto);
 }
 }
